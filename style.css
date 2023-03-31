@@ -1,19 +1,19 @@
 p {
-  color: red;
+  font-color: red;
     font-weight: 30px;
 }
 
 ul {
-  color: red;
+  font-color: red;
   background-color: pink;
 }
 
 ol {
-  color: maroon;
+  font-color: maroon;
   background-color: orange;
 }
 
 h1 {
-  color: pink;
+  font-color: pink;
   background-color: orange;
 }
