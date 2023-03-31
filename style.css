@@ -5,5 +5,10 @@ p {
 
 ul {
   color: red;
-  border-color: red;
+  background-color: pink;
+}
+
+ol {
+  color: maroon;
+  background-color: orange;
 }
