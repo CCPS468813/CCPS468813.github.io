@@ -1,11 +1,11 @@
 p {
-  color: red;
+  color: orange;
     font-weight: 30px;
 }
 
 ul {
-  color: red;
-  background-color: pink;
+  color: orange;
+  background-color: #DE5D83;
 }
 
 ol {
